@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GeorgiGidionov
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Python and cybersecurity projects
 - 📫 How to reach me www.linkedin.com/in/georgi-gidionov
 
 
